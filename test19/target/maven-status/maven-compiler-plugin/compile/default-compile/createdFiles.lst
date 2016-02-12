@@ -1,0 +1,12 @@
+com\becomejavasenior\model\File.class
+com\becomejavasenior\model\UserRole.class
+com\becomejavasenior\model\Company.class
+com\becomejavasenior\controller\ContactFilter.class
+com\becomejavasenior\model\Contact.class
+com\becomejavasenior\model\Deal.class
+com\becomejavasenior\model\PhoneNumber.class
+com\becomejavasenior\model\Comment.class
+com\becomejavasenior\model\User.class
+com\becomejavasenior\model\Tag.class
+com\becomejavasenior\model\Task.class
+com\becomejavasenior\controller\FileFilter.class

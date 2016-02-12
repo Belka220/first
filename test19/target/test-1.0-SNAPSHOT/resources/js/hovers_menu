@@ -1,0 +1,27 @@
+$('#options').hover(function(){
+    $('#options_hover').css({display:"block"}).animate({height: "300"}, 500).hover(function(){},function(){
+        $(this).animate({height: "0"}, 500);
+        $(this).css({display:"none"});
+    });
+});
+
+$('#contacts').hover(function(){
+    $('#contact_hover').css({display:"block"}).animate({height: "300"}, 500).hover(function(){},function(){
+        $(this).animate({height: "0"}, 500);
+        $(this).css({display:"none"});
+    });
+});
+
+$('#analytic').hover(function(){
+    $('#analytic_hover').css({display:"block"}).animate({height: "300"}, 500).hover(function(){},function(){
+        $(this).animate({height: "0"}, 500);
+        $(this).css({display:"none"});
+    });
+});
+
+$('#analytic').hover(function(){
+    $('#analytic_h').html({}).animate({height: "300"}, 500).hover(function(){},function(){
+        $(this).animate({height: "0"}, 500);
+        $(this).css({display:"none"});
+    });
+});
